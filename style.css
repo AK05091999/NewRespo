@@ -1,0 +1,17 @@
+nav {
+    display:flex;
+    background-color: navajowhite;
+    height: 35px;
+    align-items: center;
+    }
+    nav li{
+        list-style-type: none;
+        
+        color: white;
+        margin-right: 200px;
+        margin-left: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+
+
+    }
